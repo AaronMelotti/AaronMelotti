@@ -19,6 +19,8 @@ I'm a Cybersecurity graduate building hands-on experience in IT support, cyberse
 
 I'm passionate about learning how technology works, troubleshooting problems, and developing practical security skills through hands-on labs and personal projects.
 
+I'm a strong believer in learning by doing. This GitHub serves as a portfolio of my labs, projects, notes, and experiments as I continue developing my skills in IT and cybersecurity.
+
 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
