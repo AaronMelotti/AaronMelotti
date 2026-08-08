@@ -37,7 +37,7 @@ I'm a strong believer in learning by doing. This GitHub serves as a portfolio of
 - Splunk & Wazuh SIEM:
 Used Splunk to collect and analyze security logs from systems and network devices, and
 configured Wazuh to monitor endpoints for security events and suspicious activity. 
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- TryHackMe Top 4% user: I used TryHackMe to build hands-on cybersecurity experience through interactive labs, simulated investigations, and security challenges.
 
 ##  Technical Skillset
 
