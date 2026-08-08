@@ -7,14 +7,14 @@
 </div>
 
 
-<!-- 🔗 Update these links with your own social media and contact information -->
+<!-- Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   
   <a href="mailto:aaron.melotti157153@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+## About Me 
 I'm a Cybersecurity graduate building hands-on experience in IT support, cybersecurity, and SOC operations.
 
 I'm passionate about learning how technology works, troubleshooting problems, and developing practical security skills through hands-on labs and personal projects.
@@ -26,13 +26,13 @@ I'm a strong believer in learning by doing. This GitHub serves as a portfolio of
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## What I'm Currently Working On 
 
 - **Project A:** Building a home Lab to simulate a corporate network.  
 - **Project B:** Create SIEM alerts & detections 
 
 
-## 🌱 Currently Learning 
+##  Tools & Technologies 
 
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
 - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
