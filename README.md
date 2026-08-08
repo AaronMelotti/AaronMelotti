@@ -34,9 +34,9 @@ I'm a strong believer in learning by doing. This GitHub serves as a portfolio of
 
 ##  Tools & Technologies 
 
-- Splunk & Wazuh SIEM
- -Used Splunk to collect and analyze security logs from systems and network devices.
- -Configured Wazuh to monitor endpoints for security events and suspicious activity. 
+- Splunk & Wazuh SIEM:
+Used Splunk to collect and analyze security logs from systems and network devices, and
+Configured Wazuh to monitor endpoints for security events and suspicious activity. 
 - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
 
 ##  Technical Skillset
