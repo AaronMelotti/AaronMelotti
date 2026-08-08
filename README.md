@@ -29,7 +29,7 @@ I'm a strong believer in learning by doing. This GitHub serves as a portfolio of
 ## What I'm Currently Working On 
 
 - **Project A:** Building a home Lab to simulate a corporate network.  
-- **Project B:** Create SIEM alerts & detections 
+- **Project B:** Created SIEM alerts & detections utilizing Wazuh.
 
 
 ##  Tools & Technologies 
