@@ -15,7 +15,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a Cybersecurity graduate building hands-on experience in IT support, cybersecurity, SOC operations, and digital forensics.
+I'm a Cybersecurity graduate building hands-on experience in IT support, cybersecurity, and SOC operations.
 
 I'm passionate about learning how technology works, troubleshooting problems, and developing practical security skills through hands-on labs and personal projects.
 
