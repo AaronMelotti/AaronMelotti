@@ -28,7 +28,7 @@ I'm a strong believer in learning by doing. This GitHub serves as a portfolio of
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Home LabBrief, one-line description of a project, e.g., HBuilding a sales forecasting model in Python.]  
+- **Project A:** [Building home Lab to simulate a corporate network.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
